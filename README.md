@@ -40,11 +40,7 @@ Cấu trúc dữ liệu danh sách cải tiến, kế thừa từ `std::deque` v
 
 \- \*\*Utility:\*\* Tích hợp sẵn `print()`, `sort()`, `filter()`, `transform()` và các hàm chuyển đổi kiểu (`to\_int`, `to\_string`,...).
 
-
-
 \### 2. adv::store (v1.1 - Hiện đang trong quá trình kiểm thử)
-
-
 
 \### 3. adv::store (v2.0 - Hiện đang trong quá trình phát triển)
 
@@ -59,3 +55,8 @@ Cấu trúc dữ liệu danh sách cải tiến, kế thừa từ `std::deque` v
 Vì là thư viện Header-only, bạn chỉ cần tải thư mục `include/adv` và đặt vào dự án của mình.
 Lưu ý: thư viện này chỉ hỗ trợ từ C++17 trở lên (bản gốc).
 
+\## ⚖️ Bản quyền và bảo mật
+
+- License: MIT License.
+- Security: SLSA Level 3 Certified.
+- Product ID: Mỗi sản phẩm (thư viện) thuộc adv:: sở hữu một mã định danh(id) duy nhất để ngăn chặn việc tái bản, giả mạo mã nguồn.(ví dụ trong store v1.0 có id là: #.4ß&Q3O$i:M<J<tn).
