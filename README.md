@@ -22,7 +22,7 @@ Dự án này cung cấp các công cụ và cấu trúc dữ liệu cải tiế
 
 \- \*\*Quản lý lỗi thông minh:\*\* Cho phép linh hoạt lựa chọn giữa ném ngoại lệ (Exception) hoặc sử dụng mã thoát (Exit code).
 
-\- \*\*Tính tương thích:\*\* Dễ dàng chuyển đổi qua lại với các container chuẩn của STL (`std::vector`, `std::deque`, `std::string`).
+\- \*\*Tính tương thích:\*\* Dễ dàng chuyển đổi qua lại với các container chuẩn của STL (`std::vector`, `std::deque`, `std::array`).
 
 
 
