@@ -57,4 +57,5 @@ Cấu trúc dữ liệu danh sách cải tiến, kế thừa từ `std::deque` v
 \## 🛠 Cách sử dụng
 
 Vì là thư viện Header-only, bạn chỉ cần tải thư mục `include/adv` và đặt vào dự án của mình.
+Lưu ý: thư viện này chỉ hỗ trợ từ C++17 trở lên (bản gốc).
 
