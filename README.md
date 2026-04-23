@@ -45,13 +45,13 @@ Dự án được chia thành các phân vùng chuyên biệt. Để xem chi ti�
 Tôi sử dụng các công nghệ hiện đại để đảm bảo quy trình phát triển được an toàn, nhất quán và hiệu quả cao:
 
 * **Ngôn ngữ chính:**  
-  - **C++17** (ISO/IEC 14882:2017) – Tối ưu hiệu năng cực mạnh  
-  - **C# (.NET 10+)** – Phát triển nhanh, hiện đại và dễ bảo trì
+  - **C++17** (ISO/IEC 14882:2017) – Tối ưu hiệu năng và xử lí mạnh mẽ.
+  - **C# (.NET 10+)** – Phát triển nhanh, hiện đại và dễ bảo trì.
 
 * **Công cụ hỗ trợ:**  
-  - Compiler: MSVC, GCC, Clang (C++17)  
-  - .NET SDK cho C#  
-  - Benchmarking tools và unit testing
+  - Compiler: MSVC, GCC, Clang (C++17). 
+  - .NET SDK cho C#.
+  - Benchmarking tools và unit testing.
 
 ## 🛡️ Bảo mật & Bản quyền
 
